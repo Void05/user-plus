@@ -1,0 +1,13 @@
+{
+    "token": "Your bot Token", 
+    "prefix": "!",
+    "ownersID": "Your ID",
+    "ownerName": "You name with tag like DynamoYT#1000",
+    "botID": "Bot ID", 
+    "botName": "Bot Name + tag like Users+#9493", 
+    "embedColor": "Add Any Hex Color",
+    "JoinchannelID": "",
+    "LeavechannelID": "",
+    "errorChannelID": "",
+    "reportChannelID": ""
+}
