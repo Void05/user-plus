@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "bot.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -37,5 +34,8 @@
     "weather-js": "^2.0.0",
     "ws": "^6.1.2",
     "ytdl-core": "^2.0.0"
+  }
+  "scripts": {
+    "start": "node index.js"
   }
 }
